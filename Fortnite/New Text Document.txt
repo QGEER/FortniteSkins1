@@ -1,0 +1,37 @@
+--------------------- fortnite-------------------------
+local Carbide = { model = "Carbide"}
+local DarkKnight = { model = "DarkKnight"}
+local Dark_Voyager = { model = "Dark_Voyager"}
+local DJ_Yonder = { model = "DJ_Yonder"}
+local Drift_4 = { model = "Drift_4"}
+local Durrburger = { model = "Durrburger"}
+local Galaxy = { model = "Galaxy"}
+local Harley_Quinn = { model = "Harley_Quinn"}
+local Hazmat = { model = "Hazmat"}
+local Hybrid = { model = "Hybrid"}
+local Mezmer = { model = "Mezmer"}
+local Moisty_Merman = { model = "Moisty_Merman"}
+local Omega = { model = "Omega"}
+local Peely = { model = "Peely"}
+local Sith_Trooper = { model = "Sith_Trooper"}
+local The_Reaper = { model = "The_Reaper"}
+--------------------- fortnite-------------------------
+    ["????? ????????"] = {
+      _config = { permissions = {"Fort.clockroom"} },
+      ["??????"] = Carbide,
+      ["?????"] = DarkKnight,
+      ["???? ?????"] = Dark_Voyager,
+      ["?? ?? ?????"] = DJ_Yonder,
+      ["????"] = Drift_4,
+      ["???????"] = Durrburger,
+      ["???????"] = Galaxy,
+      ["????? ????"] = Harley_Quinn,
+      ["??????"] = Hazmat,
+      ["??????"] = Hybrid,
+      ["??????"] = Mezmer,
+      ["?????? ??????"] = Moisty_Merman,
+      ["??????"] = Omega,
+      ["????"] = Peely,
+      ["???? ????"] = Sith_Trooper,  
+      ["??? ???"] = The_Reaper
+    },
